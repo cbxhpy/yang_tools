@@ -30,10 +30,7 @@ python JiaRu.py
 ```
 python JiaRu.py
 ```
-
 ![](img/img03.png)
-
-
 
 # 交流
 ## 加好友
