@@ -33,7 +33,7 @@ python JiaRu.py
 ![](img/img03.png)
 
 # 交流
-## 加好友
+## 脚本讨论
 ![](img/img04.png)
 ## 接受投喂
 ![](img/img05.png)
